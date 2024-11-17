@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WOHI Final Project Burcu Koyluoglu
 
 
@@ -12,3 +13,7 @@ Project features:
 -To make API requests: Axios 
 -To handle the routing between pages: react-router-dom
 -for style/functionality: bootstrap
+=======
+# WOHI-final-project-dictionary
+An eng to eng dictionary
+>>>>>>> 4c76f87b80d297b9f871bf4b857ee4b81a0921d1
